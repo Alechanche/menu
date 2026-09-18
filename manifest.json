@@ -1,4 +1,5 @@
 {
+    "version": "2.0.0",
     "name": "Food Stand POS",
     "short_name": "Food POS",
     "start_url": "./index.html",
