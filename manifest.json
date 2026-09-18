@@ -1,8 +1,8 @@
 {
+    "name": "Employee Menu",
+    "short_name": "Menu",
     "version": "2.0.0",
-    "name": "Food Stand POS",
-    "short_name": "Food POS",
-    "start_url": "./index.html",
+    "start_url": "./index.html",    
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#6d4aff",
